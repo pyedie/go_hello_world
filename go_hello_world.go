@@ -1,4 +1,4 @@
-// Import main package
+// Declare main package
 package main
 
 // import "fmt" 
